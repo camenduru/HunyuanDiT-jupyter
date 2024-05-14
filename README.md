@@ -18,4 +18,4 @@ https://tencent.github.io/HunyuanDiT/asset/Hunyuan_DiT_Tech_Report_05140553.pdf
 https://dit.hunyuan.tencent.com/
 
 ### 🖼 Output
-
+![Screenshot 2024-05-14 161728](https://github.com/camenduru/HunyuanDiT-jupyter/assets/54370274/c27dcb42-2268-4ab8-8118-2e0d1c36d570)
