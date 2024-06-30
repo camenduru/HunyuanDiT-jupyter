@@ -6,6 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/HunyuanDiT-jupyter/blob/main/HunyuanDiT_v1.2_jupyter.ipynb) | HunyuanDiT_v1.2_jupyter
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/HunyuanDiT-jupyter/blob/main/HunyuanDiT_v1.1_jupyter.ipynb) | HunyuanDiT_v1.1_jupyter
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/HunyuanDiT-jupyter/blob/main/HunyuanDiT_jupyter.ipynb) | HunyuanDiT_jupyter
 
